@@ -1,2 +1,2 @@
 my name is md Maruf
-to day we are lear about git and github
+today we are lear about git and github
