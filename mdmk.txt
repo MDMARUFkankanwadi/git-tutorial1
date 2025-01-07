@@ -1,2 +1,2 @@
 my name is md Maruf
-today we are lear about git and github
+today we are learn about git and github
